@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  padding: 0;
+  marigin: 0;
+  background: black;
+}
+
+#builder {
+  width: 90%;
+  min-width: 290px;
+  margin: auto;
+  margin-top: 10vw;
+  height: 700px;
+  background: white;
+}
